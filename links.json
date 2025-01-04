@@ -1,6 +1,6 @@
 {
   "freeVideos": [
-    { "title": "Free Video 1", "url": "https://opto.blob.core.windows.net/videos/free-video-1.mp4" },
+    { "title": "Free Video 1", "url": "https://opto.blob.core.windows.net/videos/test.mp4" },
     { "title": "Free Video 2", "url": "https://opto.blob.core.windows.net/videos/free-video-2.mp4" }
   ],
   "membersOnlyVideos": [
